@@ -1,0 +1,1 @@
+Stores and shows information about menstruation days, sex, pills, notes.
